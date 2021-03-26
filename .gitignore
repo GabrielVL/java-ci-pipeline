@@ -116,3 +116,5 @@ fabric.properties
 /.idea/misc.xml
 /.idea/modules.xml
 /.idea/vcs.xml
+/.idea/ant.xml
+/.idea/artifacts/java_ci_pipeline_jar.xml
